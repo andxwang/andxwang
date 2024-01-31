@@ -7,8 +7,6 @@ Check out my travel videos on YouTube or connect with me on LinkedIn!
 [<img src="https://img.icons8.com/nolan/344/youtube-play.png" height='40px' alt="youtube">](https://www.youtube.com/channel/UCL1waTxPGsnrlof1YQGTjiA)
 [<img src="https://img.icons8.com/nolan/344/linkedin-circled.png" height='40px' alt="linkedin">](https://www.linkedin.com/in/andy-w/)
 
-Resume: to be uploaded soon!
-
 ---
 
 ### Languages and tools:
