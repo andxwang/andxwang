@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Andy! 
-I'm a senior studying computer science & statistics at the University of Illinois at Urbana-Champaign. 
+
 I'm interested in data science, machine learning, and software development. 
 
 Check out my travel videos on YouTube or connect with me on LinkedIn!
