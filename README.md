@@ -2,6 +2,8 @@
 
 I'm interested in data science, machine learning, and software development. 
 
+Based in NYC.
+
 Check out my travel videos on YouTube or connect with me on LinkedIn!
 
 [<img src="https://img.icons8.com/nolan/344/youtube-play.png" height='40px' alt="youtube">](https://www.youtube.com/channel/UCL1waTxPGsnrlof1YQGTjiA)
